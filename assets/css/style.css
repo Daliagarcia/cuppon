@@ -1,0 +1,46 @@
+body{
+  font-family: 'Roboto';
+}
+
+.success{
+  background-color: #28a745;
+}
+
+.navbar-brand img{
+  width: 100%;
+  height: auto;
+  max-width: 30%;
+}
+
+footer img{
+  width: 100%;
+  height: auto;
+  max-width: 10%;
+}
+
+footer{
+  color: #707070;
+}
+
+h3{
+  font-weight: 500;
+}
+
+h5{
+  font-weight: 300;
+}
+
+p{
+  margin-top: 0px;
+  margin-bottom: 0px
+}
+
+.btn-sin_color{
+  background-color: white;
+}
+
+.texto{
+  font-size: 16pt;
+  color: #212529;
+  font-weight: 500;
+}
